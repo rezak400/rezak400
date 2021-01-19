@@ -24,18 +24,9 @@
 
 [<img align="left" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/html.png" />][null-link]
 [<img align="left" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/css.png" />][null-link]
-[<img align="left" alt="Sass" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/sass.png" />][null-link]
 [<img align="left" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/js.png" />][null-link]
-[<img align="left" alt="JSON" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/json.png" />][null-link]
-[<img align="left" alt="MySQL" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/mysql.png" />][null-link]
-[<img align="left" alt="MariaDB" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/mariadb.png" />][null-link]
-[<img align="left" alt="Postgresql " height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/pgsql.png" />][null-link]
-[<img align="left" alt="MongoDB" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/mongodb.png" />][null-link]
 [<img align="left" alt="Linux" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/linux.png" />][null-link]
-[<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/terminal.png" />][null-link]
-[<img align="left" alt="VS Code" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/vscode.png" />][null-link]
 [<img align="left" alt="git" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/git.png" />][null-link]
-
 
 
 
