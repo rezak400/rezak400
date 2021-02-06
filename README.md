@@ -1,6 +1,6 @@
 ### Hi there, I'm Reza - aka [rezak400][website] 👋
 
-[![Website](https://img.shields.io/website?label=My_Portofolio&style=for-the-badge&url=https%3A%2F%2Fbelajar-next-reza.vercel.app)](https://belajar-next-reza.vercel.app/)
+[![Website](https://img.shields.io/website?label=My_Portofolio&style=for-the-badge&url=https%3A%2F%2Fbelajar-next-reza.vercel.app)](https://portofolio-reja.vercel.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rezak400?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Web Developer!!
