@@ -31,7 +31,7 @@
 
 
 
-[website]: https://rezadwiputra.tech
+[website]: https://rezadwiputra.com
 [twitter]: https://twitter.com/rezak400
 [instagram]: https://www.instagram.com/reza.dwip/
 [null-link]: #
