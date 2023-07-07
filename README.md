@@ -1,14 +1,13 @@
 ### Hi there, I'm Reza - aka [rezak400][website] 👋
 
 [![Website](https://img.shields.io/website?label=My_Portofolio&style=for-the-badge&url=https%3A%2F%2Frezadwiputra.com)](https://rezadwiputra.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rezak400?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rezak400)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rezak500?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rezak500)
 
 ## I'm a Web Developer!!
 
-- 🔭 I just launched my portofolio website
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for programming partner
-- 🥅 2021 Goals: Being a professional IT-Moeslim
 - ⚡ Fun fact: I love to write, doing sports
 
 
