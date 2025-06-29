@@ -3,13 +3,12 @@
 [![Website](https://img.shields.io/website?label=My_Portofolio&style=for-the-badge&url=https%3A%2F%2Frezadwiputra.com)](https://rezadwiputra.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rezak500?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rezak500)
 
-## I'm a Web Developer!!
-
+## I'm a Software Engineer!!
+Software Engineer specializing in Odoo, fullstack web development, and system analysis, with a proven track record of delivering scalable ERP solutions across countries
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for programming partner
 - ⚡ Fun fact: I love to write, doing sports
-
 
 ### Connect with me:
 
@@ -31,6 +30,6 @@
 
 
 [website]: https://rezadwiputra.com
-[twitter]: https://twitter.com/rezak400
+[twitter]: https://twitter.com/rezak500
 [instagram]: https://www.instagram.com/reza.dwip/
 [null-link]: #
