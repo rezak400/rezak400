@@ -42,12 +42,12 @@ Software Engineer specializing in **Odoo**, **fullstack web development**, and *
 
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezak400&show_icons=true&theme=default&hide_title=true)
 
-🧩 I'm currently exploring ways to contribute to the **Odoo** and **OCA** open-source ecosystem. Still learning the flow, but making steady progress — always open to guidance and collaboration!
+🧩 I'm currently exploring ways to contribute to the **Odoo** and **OCA** open-source ecosystem. Still learning the flow, but making steady progress, always open to guidance and collaboration!
 
 ---
 
 ## 📫 Wanna Collaborate?
 
-If you're building something cool with ERP, AI, automation, or edutech — let’s talk: **[rezadwiputra.com](https://rezadwiputra.com)**
+If you're building something cool with ERP, AI, automation, or edutech, let’s talk: **[rezadwiputra.com](https://rezadwiputra.com)**
 
 ---
